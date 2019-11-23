@@ -18,7 +18,7 @@ def grade_level(mark):
     elif mark == 3:
         mark = 75
     elif mark == 4:
-        mark = 70
+        mark = 90
 
     return mark
 
